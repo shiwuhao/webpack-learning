@@ -1,0 +1,22 @@
+{
+  "name": "webpack-learning",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiwuhao/webpack-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiwuhao/webpack-learning/issues"
+  },
+  "homepage": "https://github.com/shiwuhao/webpack-learning#readme",
+  "devDependencies": {
+    "jquery": "^3.2.1"
+  }
+}
