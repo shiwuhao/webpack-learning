@@ -49,3 +49,6 @@ fabric.properties
 .idea/webpack-learning.iml
 .idea/workspace.xml
 .idea/
+bundle.js
+bundle.js.map
+node_modules/
