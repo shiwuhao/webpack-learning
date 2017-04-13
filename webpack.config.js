@@ -1,3 +1,5 @@
+var debug = process.env.NODE_ENV !== 'production';
+
 module.exports = {
     devtool: "sourcemap",
     entry: "./js/entry.js",
