@@ -4,13 +4,14 @@
 require('./module-one.js');
 require('./module-two.js');
 
-import Vue from 'vue';
-import Heading from './components/heading.vue';
+// import Vue from 'vue';
+// import Heading from './components/heading.vue';
+//
+// new Vue({
+//     el:'#app',
+//     components:{ Heading }
+// });
 
-new Vue({
-    el:'#app',
-    components:{ Heading }
-});
 
 
 

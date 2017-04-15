@@ -1,10 +1,11 @@
-var debug = process.env.NODE_ENV !== 'production';
+//var debug = process.env.NODE_ENV !== 'production';
 
 module.exports = {
     devtool: "sourcemap",
     entry: "./js/entry.js",
     output: {
-        filename:"bundle.js"
+        filename:"bundle.js",
+        publicPath:"http://localhost:8080/"
     },
     module: {
         rules: [

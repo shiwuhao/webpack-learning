@@ -3,4 +3,4 @@
  */
 import $ from 'jquery';
 
-$('h1').html('It is aasdasdasdasda');
+$('h1').html('It is ccc');
